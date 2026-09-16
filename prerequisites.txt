@@ -1,0 +1,4 @@
+Python 3.13.5
+ciao-4.17, heasoft-6.36, SAS 22.1.0-a8f2c2afa-20250304 configured as functions in ~\.bashrc called ciaonit, heainit and sasinit
+The CCF files needed for SAS were downloaded from http://xrays.fcaglp.unlp.edu.ar/ and updated at 14:43, 16th november of 2025, Argentinian time.
+
